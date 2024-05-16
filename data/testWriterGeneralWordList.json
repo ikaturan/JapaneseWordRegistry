@@ -1,0 +1,25 @@
+{
+    "name": "favourites",
+    "words": [
+        {
+            "path": "images/jisho.png",
+            "romaji": "jisho",
+            "definition": "dictionary"
+        },
+        {
+            "path": "images/kamen.png",
+            "romaji": "kamen",
+            "definition": "mask"
+        },
+        {
+            "path": "images/tokei.png",
+            "romaji": "tokei",
+            "definition": "clock"
+        },
+        {
+            "path": "images/watashi.png",
+            "romaji": "watashi",
+            "definition": "me"
+        }
+    ]
+}
